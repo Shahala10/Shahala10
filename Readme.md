@@ -17,5 +17,5 @@ Currently learning: Python · Data Visualization · Machine Learning · Generati
 **Goal:** Become a Data Scientist / AI Engineer who builds intelligent, data-driven products.
 
 ---
-📫 Connect with me on [LinkedIn]([https://www.linkedin.com/in/shahala-rahshima/])
+📫 Connect with me on [LinkedIn](https://www.linkedin.com/in/shahala-rahshima/)
 
