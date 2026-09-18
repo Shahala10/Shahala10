@@ -194,21 +194,6 @@ Building projects, solving problems, debugging code, experimenting with datasets
 
 ---
 
-## 📊 GitHub Activity
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Shahala10&hide_border=true)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 📈 Contribution Graph
-
-![Shahala's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shahala10&hide_border=true)
-
----
-
 ## 🎯 Current Focus
 
 ```text
@@ -219,6 +204,7 @@ Building projects, solving problems, debugging code, experimenting with datasets
 🔗 RAG
 🧩 Agentic AI
 💻 AI Application Development
+💻 Software development
 ```
 
 ---
