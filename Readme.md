@@ -195,12 +195,9 @@ Building projects, solving problems, debugging code, experimenting with datasets
 ---
 
 ## 📊 GitHub Activity
-
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Shahala10&show_icons=true&hide_border=true&rank_icon=github" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shahala10&layout=compact&hide_border=true" height="180"/>
+[![GitHub Streak](https://streak-stats.demolab.com?user=Shahala10&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -208,11 +205,7 @@ Building projects, solving problems, debugging code, experimenting with datasets
 
 ## 📈 Contribution Graph
 
-<div align="center">
-
-![Shahala's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shahala10&hide_border=true)
-
-</div>
+![Shahala's GitHub Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Shahala10&hide_border=true)
 
 ---
 
